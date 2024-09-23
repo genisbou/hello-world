@@ -1,2 +1,2 @@
 # hello-world
-Este repositorio es para practicar el flujo de GitHub
+Estem editant el fitxer .md en aquest curs de 2DAW
